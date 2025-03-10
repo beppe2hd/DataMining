@@ -16,6 +16,9 @@ The code reported in this repository has been derived by the examole provided wi
 
 - https://github.com/wesm/pydata-book/tree/3rd-edition
 
+## Notebooks
+https://drive.google.com/drive/folders/13octHqkIIsbZihEUHkdMVGqN7E4H7eyG?usp=sharing
+
 ## Topics
 
 ### Classifiers
