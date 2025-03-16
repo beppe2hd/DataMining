@@ -20,7 +20,7 @@ The code reported in this repository has been derived by the examole provided wi
 https://drive.google.com/drive/folders/13octHqkIIsbZihEUHkdMVGqN7E4H7eyG?usp=sharing
 
 ## Additional Resources
-Install conda and VS Code: https://www.youtube.com/watch?v=ljFwYKL6-1U
+Install conda and Visual Studio Code: https://www.youtube.com/watch?v=ljFwYKL6-1U
 
 ## Topics
 
