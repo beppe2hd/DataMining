@@ -3,18 +3,19 @@ Resources for Data Mining course
 
 The code reported in this repository has been derived by the examole provided with the books below.
 
-### Numpy and Pandas for data mining
-- File named with the prefix _toutorial_ provide a **simple** set of examples introducing Numpy and Pandas libraryes
-- File named with the prefix _pydata_ provide a **detailed** set of examples introducing Numpy and Pandas libraryes
+### Numpy and Pandas introduction
+- Files named with the prefix toutorial_ provide a **simple** set of examples introducing Numpy and Pandas libraryes
+- Files (Notebook/pydata-book-3rd-edition) provide a **detailed** set of examples introducing Numpy and Pandas libraryes
+
 ### Algorithms for Data mining
 - File named with a number prefix provide a set of example illustrating the usage of main algorithms discussed in the course, divided topic by topic 
 
 ## Books
 - https://www-users.cse.umn.edu/~kumar001/dmbook/index.php
 
-- https://wesmckinney.com/book/
+- https://wesmckinney.com/book/ (https://github.com/wesm/pydata-book/tree/3rd-edition)
 
-- https://github.com/wesm/pydata-book/tree/3rd-edition
+- http://www.mmds.org 
 
 ## Notebooks
 https://drive.google.com/drive/folders/13octHqkIIsbZihEUHkdMVGqN7E4H7eyG?usp=sharing
@@ -22,7 +23,7 @@ https://drive.google.com/drive/folders/13octHqkIIsbZihEUHkdMVGqN7E4H7eyG?usp=sha
 ## Additional Resources
 Install conda and Visual Studio Code: https://www.youtube.com/watch?v=ljFwYKL6-1U
 
-## Topics
+## Course Programm
 
 ### Classifiers
 IDM (3, 6)
