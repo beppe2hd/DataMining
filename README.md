@@ -3,6 +3,10 @@ Resources for Data Mining course
 
 The code reported in this repository has been derived by the examole provided with the books below.
 
+## NEWS
+<span style="color:red">Lesson of 20th May 2025 will start at 10:00</span>.
+
+
 ### Numpy and Pandas introduction
 - Files named with the prefix toutorial_ provide a **simple** set of examples introducing Numpy and Pandas libraryes
 - Files (Notebook/pydata-book-3rd-edition) provide a **detailed** set of examples introducing Numpy and Pandas libraryes
