@@ -77,19 +77,9 @@ MMD(9.1, 9.2, 9.3 9.5)
 - The Netflix Challenge
 
 ### Link analysis
-MMD(5.1, 5.4, 5.5)
+MMD(5.1, 5.5)
+- Introduction to graph
 - PageRank 
-- Link Spam
 - Hubs and Authorities 
 
-### Frequent Itemset  
-MMD(6.1,6.2,6.3) IDM(4)
-- Modello market-basket
-- Algoritmo A-priori
-- Algoritmo PCY
 
-Finding Similar Items —> MMD(3.1,3.2,3.5)
-Document similarity
-Shingling: convertire documenti email in insiemi (k-shingles)
-Compressione mediante hashing di k-shingles
-Distances
